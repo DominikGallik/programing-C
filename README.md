@@ -1,17 +1,23 @@
-0. cd
+# 0. cd
 dostať sa k svojmu repozitaru (cd + cesta)(cd .. vychadzam z aktualneho rep.)
-1. git status
+# 1. git status
 zistim v akom stave je moj git
-2. git add .
+# 2. git add .
 pridanie všetkých zmien na miesto pre pripravu commitu. bodka znamena ozn. vsetko
-3. git commit -m ""
+# 3. git commit -m ""
 tvorba commitu s vlastnou spravou ktoru zapisujem vo vnutri "" double qoutes
-4. git status
-5. git push
+# 4. git status
+ukaze stav 
+# 5. git push
 pusnem zmeny na github
-6. git pull
+# 6. git pull
 stiahnem zmeny z github
-7. ls
+# 7. ls
 kde som a čo tam je 
-"string"
+# 8. gcc -o ahojsvet helloworld.c
+kompilator (-o nazov [+prida .exe])
+# 9. ./ahojsvet
+spustenie suboru
+# "string" 
+retazec, text medzi ciarkami
 
